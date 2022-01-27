@@ -1,0 +1,13 @@
+{
+  "short_name": "Useless",
+  "name": "Useless Tokens",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
